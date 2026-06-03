@@ -77,3 +77,22 @@ Goal:
 
 - Complete final version
 - Submit proposal and prototype
+## Project Timeline Chart
+
+```mermaid
+gantt
+    title DIGITIMES Intelligence Revamp Timeline
+    dateFormat  YYYY-MM-DD
+    section Kickoff
+    Design and IT Meeting           :done, 2026-06-03, 1d
+    section Planning
+    Page Structure and Requirements :2026-06-04, 3d
+    section Design
+    Homepage and Category Mockups   :2026-06-07, 4d
+    section Development
+    HTML Prototype                  :2026-06-11, 4d
+    section Review
+    Internal Review                 :2026-06-15, 3d
+    section Final
+    Final Revision                  :2026-06-18, 2d
+    Delivery                        :milestone, 2026-06-20, 0d
